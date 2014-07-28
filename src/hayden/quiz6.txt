@@ -1,0 +1,24 @@
+What does mp mean?
+mute piano
+play louder
+mediumly quiet
+mediumly loud
+3
+What does legato mean?
+rigid
+quiet
+louder
+smooth
+3
+What does fff mean?
+super quiet
+super loud
+smooth
+freestyle
+2
+What does tr mean?
+trip
+stop playing
+add waves to sound
+trill
+4

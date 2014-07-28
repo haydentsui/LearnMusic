@@ -1,0 +1,24 @@
+How many beats does a sixteenth note have?
+1/6
+16
+1/4
+1/16
+3
+How many beats does an eigth note have?
+8
+1/8
+18
+1/2
+4
+How many beats does a quarter note have?
+4
+1/4
+1
+1/2
+3
+How many notes does a half note have?
+1/2
+1
+2
+4
+3
